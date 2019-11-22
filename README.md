@@ -1,5 +1,4 @@
 # infixa-posfixa
-==============
 Conversor de expressão infixa para posfixa.
 
 ### Explicação
